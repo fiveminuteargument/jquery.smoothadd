@@ -85,8 +85,4 @@
 			});
 		}
 	}
-
-	// pass jQuery to the function,
-	// So that we will able to use any valid Javascript variable name
-	// to replace "$" SIGN. But, we'll stick to $ (I like dollar sign: ) )
 })(jQuery);
