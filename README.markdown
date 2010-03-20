@@ -10,5 +10,4 @@
 
 * maxItems - number of items to display in the list
 * duration - time (in milliseconds) for the animation to run
-* animRatio - duration for new item's main movement vs. new item's appearance
-              and old item's disappearance
+* animRatio - duration for new item's main movement vs. new item's appearance and old item's disappearance
